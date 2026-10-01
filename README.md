@@ -1,6 +1,6 @@
-# 🚗 Cars24 Used Car Market Analysis
+#  Cars24 Used Car Market Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Cars24 Used Car Market Analysis** is an end-to-end **Data Analytics project** focused on collecting, cleaning, analyzing, and visualizing used-car listing data from **Cars24 Hyderabad**.
 
@@ -12,7 +12,7 @@ The project combines Python-based data collection and analysis with MySQL queryi
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The main objectives of this project are:
 
@@ -32,7 +32,7 @@ The main objectives of this project are:
 
 ---
 
-# 🌐 Data Source
+# Data Source
 
 **Source:** Cars24  
 **Location:** Hyderabad, Telangana, India  
@@ -46,7 +46,7 @@ The scraped data was then structured into a Pandas DataFrame and saved for furth
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -64,7 +64,7 @@ The scraped data was then structured into a Pandas DataFrame and saved for furth
 
 ---
 
-# 📊 Dataset Information
+#  Dataset Information
 
 The initial scraping process collected **211 raw car listings** with **10 features**.
 
@@ -87,7 +87,7 @@ The scraped dataset contained information about the vehicle name, manufacturing 
 
 ---
 
-# 🔄 Project Workflow
+# Project Workflow
 
 ```text
 Cars24 Website
